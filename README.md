@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kim-soojin
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning .front-end
+- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on my github
 - 📫 How to reach me verysoojini@gmail.com
 - 😄 Pronouns: servive, growth
